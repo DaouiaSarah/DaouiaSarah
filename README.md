@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Daouia Sara  
 
-<!--
-**DaouiaSarah/DaouiaSarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Intelligent Computer Systems Engineer**  
+💡 Passionate about **Artificial Intelligence** & **Android Development**  
+🌍 Based in Algiers, Algeria  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+I’m a curious engineer who loves blending intelligence with creativity. Whether it’s building smart systems or crafting intuitive mobile apps.  
+My goal is to design technology that *learns, adapts, and makes life easier.*
+
+---
+
+### 🚀 What I Do
+- 🤖 Develop and experiment with **AI & Machine Learning models**  
+- 📱 Build **Android apps** with **Kotlin** 
+- 🧩 Combine **data-driven intelligence** with clean, user-friendly design  
