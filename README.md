@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Daouia Sara  <br><br>🎓 Intelligent Computer Systems Engineer | 💡 Passionate about Artificial Intelligence & Android Development  <br><br>I’m a curious engineer who loves blending intelligence with creativity,  from building smart systems to crafting intuitive mobile apps. My goal is to design technology that learns, adapts, and makes life easier.<br>
+  👋 Hi, I'm Daouia Sarah  <br><br>🎓 Intelligent Computer Systems Engineer | 💡 Passionate about Artificial Intelligence & Android Development  <br><br>I’m a curious engineer who loves blending intelligence with creativity,  from building smart systems to crafting intuitive mobile apps. My goal is to design technology that learns, adapts, and makes life easier.<br>
 
 
 ## 🌐 Socials:
