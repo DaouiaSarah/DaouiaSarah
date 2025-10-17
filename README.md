@@ -16,3 +16,6 @@ My goal is to design technology that *learns, adapts, and makes life easier.*
 - 🤖 Develop and experiment with **AI & Machine Learning models**  
 - 📱 Build **Android apps** with **Kotlin** 
 - 🧩 Combine **data-driven intelligence** with clean, user-friendly design  
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DaouiaSarah=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
