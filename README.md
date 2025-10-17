@@ -18,4 +18,5 @@ My goal is to design technology that *learns, adapts, and makes life easier.*
 - 🧩 Combine **data-driven intelligence** with clean, user-friendly design  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaouiaSarah&show_icons=true&theme=tokyonight)
+### 📊 Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaouiaSarah&hide=issues,contribs&show_icons=true&theme=tokyonight)
