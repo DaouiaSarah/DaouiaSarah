@@ -22,7 +22,7 @@ Hi there, I'm **Daouia Sarah**, an **Intelligent Computer Systems Engineer** pas
   <li><b>♻️ <a href="https://github.com/DaouiaSarah/BioCycle">BioCycle</a></b> — Android app to track and manage recyclable products for a recycling business.</li>
   <li><b>🚗 Driver Acquisition Module</b> — Native Android module developed for <i>Yassir</i> to manage driver acquisition processes. <i>(Bachelor Thesis)</i></li>
   <li><b>📖 <a href="https://github.com/DaouiaSarah/Kids-Tales">Kids Tales</a></b> — Android app featuring interactive children’s stories with illustrations.</li>
-  <li><b>🎲 Mini Learning Projects</b> — <a href="https://github.com/DaouiaSarah/DiceRollerApp">Dice Rolle</a>, <a href="https://github.com/DaouiaSarah/TipTimeApp">Tip Time</a>, <a href="https://github.com/DaouiaSarah/LemonadeApp">Lemonade</a>, <a https://github.com/DaouiaSarah/DogglersApp">Dogglers</a>, <a href="https://github.com/DaouiaSarah/DessertClickerApp">Dessert Clicker</a> apps created while learning from the Android Developer course by Google.</li>
+  <li><b>🎲 Mini Learning Projects</b> — <a href="https://github.com/DaouiaSarah/DiceRollerApp">Dice Rolle</a>, <a href="https://github.com/DaouiaSarah/TipTimeApp">Tip Time</a>, <a href="https://github.com/DaouiaSarah/LemonadeApp">Lemonade</a>, <a  href="https://github.com/DaouiaSarah/DogglersApp">Dogglers</a>, <a href="https://github.com/DaouiaSarah/DessertClickerApp">Dessert Clicker</a> apps created while learning from the Android Developer course by Google.</li>
 </ul>
 
 <br><br>
