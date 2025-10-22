@@ -7,12 +7,29 @@ Hi there, I'm **Daouia Sarah**, an **Intelligent Computer Systems Engineer** pas
 
 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+# My Projects:
 
-- <b>Android Mobile Dev Projects</b>
-  - [BioCycle](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [FC-Map](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+<h2>📱 Android Development Projects:</h2>
+
+- <b>Recycling App</b> — Kotlin + Firebase  
+  - [Demo App Repository](https://github.com/DaouiaSarah/Recycling-App)
+  - Features: User authentication, product recycling tracking, and map-based location display.
+  
+- <b>Faculty Navigation App</b> — Kotlin + XML + SQLite  
+  - [Navigation App Repository](https://github.com/DaouiaSarah/Faculty-Navigation)
+  - Features: Indoor navigation, route highlights, and classroom mapping.
+
+---
+
+<h2>🤖 Artificial Intelligence & Data Projects:</h2>
+
+- <b>Predictive Model for Student Performance</b> — Python + Pandas + scikit-learn  
+  - [AI Model Repository](https://github.com/DaouiaSarah/Student-Performance-ML)
+  - Features: Data preprocessing, model training, and accuracy evaluation.
+
+- <b>Data Visualization Dashboard</b> — Python + Matplotlib  
+  - [Visualization Repo](https://github.com/DaouiaSarah/Data-Visualization)
+  - Features: Custom plots, insights extraction, and clean UI output.
 
 
 
