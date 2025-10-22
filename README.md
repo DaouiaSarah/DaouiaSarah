@@ -7,7 +7,7 @@ Hi there, I'm **Daouia Sarah**, an **Intelligent Computer Systems Engineer** pas
 
 
 
-# My Projects:
+#👩🏻‍💻 My Projects:
 
 <h2>📱 Android Development Projects:</h2>
 
@@ -33,7 +33,7 @@ Hi there, I'm **Daouia Sarah**, an **Intelligent Computer Systems Engineer** pas
 
 
 
-## 🌐 Connect with Me :
+#🌐 Connect with Me :
 Let's connect and collaborate!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daouya-sara-l-616915253)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:labtanidaouia@gmail.com)
