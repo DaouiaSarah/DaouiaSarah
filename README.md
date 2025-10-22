@@ -11,7 +11,7 @@ Hi there, I'm **Daouia Sarah**, an **Intelligent Computer Systems Engineer** pas
 
 <h2>👨‍💻 Projects Overview</h2>
 
-<p>Here’s a selection of my academic, freelance, and personal projects covering Android development, AI, and web design.</p>
+<p>Here’s a selection of my academic, freelance, and personal projects:</p>
 
 <br>
 
@@ -39,11 +39,11 @@ Hi there, I'm **Daouia Sarah**, an **Intelligent Computer Systems Engineer** pas
 
 <br><br>
 
-<h3>🌐 Web Development & Design</h3>
+<h3>🌐 Web Development</h3>
 <p>Front-end experiments and design-focused projects showcasing UI/UX creativity.</p>
 
 <ul>
-  <li><b>🐾 Niche Animale</b> — Website / landing page concept currently in development, focused on animal care products and services.</li>
+  <li><b>🐾 Niche Animale</b> — Website / landing page concept currently in development, focused on animal shekters selling.</li>
 </ul>
 
 <br><br>
