@@ -7,7 +7,7 @@ Hi there, I'm **Daouia Sarah**, an **Intelligent Computer Systems Engineer** pas
 
 
 
-#👩🏻‍💻 My Projects:
+# 👩🏻‍💻 My Projects:
 
 <h2>📱 Android Development Projects:</h2>
 
