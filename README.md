@@ -16,7 +16,6 @@ Hi there, I'm **Daouia Sarah**, an **Intelligent Computer Systems Engineer** pas
 <br>
 
 <h3>📱 Mobile Development</h3>
-<p>Projects built using <b>Kotlin</b>, <b>XML</b>, and <b>Firebase</b> — showcasing Android app design, logic, and user interaction.</p>
 
 <ul>
   <li><b>🗺️ FC MAP</b> — Android app for navigation around the Faculty of Sciences, University of Algiers 1.</li>
@@ -30,7 +29,6 @@ Hi there, I'm **Daouia Sarah**, an **Intelligent Computer Systems Engineer** pas
 <br><br>
 
 <h3>🤖 Artificial Intelligence & Data Science</h3>
-<p>Projects demonstrating data analysis, machine learning, and optimization using Python and its libraries (<b>NumPy</b>, <b>Pandas</b>, <b>Matplotlib</b>, <b>Scikit-learn</b> ...).</p>
 
 <ul>
   <li><b>⛽ Prediction and Optimization of Rate of Penetration in Oil Drilling using AI solution</b> — ML prediction models and optimisation solution developed for <i>Sonatrach</i>. <i>(Master Thesis)</i></li>
