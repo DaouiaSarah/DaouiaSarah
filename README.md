@@ -18,7 +18,7 @@ Hi there, I'm **Daouia Sarah**, an **Intelligent Computer Systems Engineer** pas
 <h3>📱 Mobile Development</h3>
 
 <ul>
-  <li><b><a href="https://github.com/DaouiaSarah/FacCentraleMap">🗺️ FC MAP</a></b> — Android app for navigation around the Faculty of Sciences, University of Algiers 1.</li>
+  <li><b>🗺️ <a href="https://github.com/DaouiaSarah/FacCentraleMap">FC MAP</a></b> — Android app for navigation around the Faculty of Sciences, University of Algiers 1.</li>
   <li><b><a href="https://github.com/DaouiaSarah/BioCycle">♻️ BioCycle</a></b> — Android app to track and manage recyclable products for a recycling business.</li>
   <li><b>🚗 Driver Acquisition Module</b> — Native Android module developed for <i>Yassir</i> to manage driver acquisition processes. <i>(Bachelor Thesis)</i></li>
   <li><b><a href="https://github.com/DaouiaSarah/Kids-Tales">📖 Kids Tales</a></b> — Android app featuring interactive children’s stories with illustrations.</li>
