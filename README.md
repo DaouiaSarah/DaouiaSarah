@@ -5,6 +5,19 @@
 
 🎯 My goal is to build meaningful technology that **learns, adapts, and inspires**.  
 
+## 🚀 My Projects
+
+### 🤖 Artificial Intelligence
+- **Intelligent Chatbot** - NLP-powered chatbot using Python and TensorFlow [[Code]](https://github.com/your-repo)
+- **Image Classification System** - CNN model for image recognition [[Code]](https://github.com/your-repo)
+
+### 📱 Android Development  
+- **Smart Task Manager** - AI-enhanced productivity app in Kotlin [[Code]](https://github.com/your-repo)
+- **Health Tracking App** - Mobile app with Firebase integration [[Code]](https://github.com/your-repo)
+
+### 🎓 Academic Projects
+- **Final Year Project** - Intelligent system for [purpose] [[Code]](https://github.com/your-repo)
+
 
 
 ## 🌐 Connect with Me :
