@@ -9,7 +9,7 @@ Hi there, I'm **Daouya Sara**, an **Intelligent Computer Systems Engineer** pass
 <br><br> 
 
 
-<h2>👨‍💻 Projects Overview</h2>
+<h2>👩🏻‍💻 Projects Overview</h2>
 
 <p>Here’s a selection of my academic, freelance, and personal projects:</p>
 
