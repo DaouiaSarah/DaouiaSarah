@@ -22,8 +22,7 @@ Hi there, I'm **Daouia Sarah**, an **Intelligent Computer Systems Engineer** pas
   <li><b>♻️ BioCycle</b> — Android app to track and manage recyclable products for a recycling business.</li>
   <li><b>🚗 Driver Acquisition Module</b> — Native Android module developed for <i>Yassir</i> to manage driver acquisition processes. <i>(Bachelor Thesis)</i></li>
   <li><b>📖 Kids Tales</b> — Android app featuring interactive children’s stories with illustrations.</li>
-  <li><b>🎲 Mini Learning Projects</b> — Dice Rolle
-    r, Tip Time, Lemonade, Dogglers, Dessert Clicker apps created while learning from the Android Developer by Google.</li>
+  <li><b>🎲 Mini Learning Projects</b> — Dice Rolle, Tip Time, Lemonade, Dogglers, Dessert Clicker apps created while learning from the Android Developer course by Google.</li>
 </ul>
 
 <br><br>
