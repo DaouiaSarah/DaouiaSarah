@@ -1,22 +1,18 @@
 # 💫 About Me:
-👋 Hi there, I'm **Daouia Sarah**, an **Intelligent Computer Systems Engineer** passionate about **Artificial Intelligence** and **Android Development**.  
+Hi there, I'm **Daouia Sarah**, an **Intelligent Computer Systems Engineer** passionate about **Artificial Intelligence** and **Android Development**.  
 
 💡 I love blending intelligence with creativity; from crafting smart systems that learn to designing intuitive mobile apps that simplify life.  
 
 🎯 My goal is to build meaningful technology that **learns, adapts, and inspires**.  
 
-## 🚀 My Projects
 
-### 🤖 Artificial Intelligence
-- **Intelligent Chatbot** - NLP-powered chatbot using Python and TensorFlow [[Code]](https://github.com/your-repo)
-- **Image Classification System** - CNN model for image recognition [[Code]](https://github.com/your-repo)
 
-### 📱 Android Development  
-- **Smart Task Manager** - AI-enhanced productivity app in Kotlin [[Code]](https://github.com/your-repo)
-- **Health Tracking App** - Mobile app with Firebase integration [[Code]](https://github.com/your-repo)
+<h2>👨‍💻 Software Development Projects:</h2>
 
-### 🎓 Academic Projects
-- **Final Year Project** - Intelligent system for [purpose] [[Code]](https://github.com/your-repo)
+- <b>Android Mobile Dev Projects</b>
+  - [BioCycle](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [FC-Map](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
 
 
