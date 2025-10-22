@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm **Daouia Sarah**, an **Intelligent Computer Systems Engineer** passionate about **Artificial Intelligence** and **Android Development**.  
+Hi there, I'm **Daouya Sara**, an **Intelligent Computer Systems Engineer** passionate about **Artificial Intelligence** and **Android Development**.  
 
 💡 I love blending intelligence with creativity; from crafting smart systems that learn to designing intuitive mobile apps that simplify life.  
 
