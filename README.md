@@ -19,7 +19,7 @@ Hi there, I'm **Daouya Sara**, an **Intelligent Computer Systems Engineer** pass
 <h3>🤖 Artificial Intelligence & Data Science</h3>
 
 <ul>
-  <li><b>⛽ Prediction and Optimization of Rate of Penetration in Oil Drilling using AI solution</b> — ML prediction models and optimisation solution developed for <i>Sonatrach</i>. <i>(Master Thesis)</i></li>
+  <li><b>⛽ <a href="https://github.com/DaouiaSarah/MasterPFE">Prediction and Optimization of Rate of Penetration in Oil Drilling using AI solution</a></b> — ML prediction models and optimisation solution developed for <i>Sonatrach</i>. <i>(Master Thesis)</i></li>
   <li><b>🌸 <a href="https://github.com/DaouiaSarah/IrisClassification">Iris Classification</a></b> — Classification model using <i>Scikit-learn</i> for pattern recognition in the Iris dataset.</li>
   <li><b>📊 <a href="https://github.com/DaouiaSarah/Datawarehouse-Project">Data Warehouse Project</a></b> — Data integration and analytics project applying data engineering and OLAP concepts.</li>
 </ul>
@@ -32,7 +32,7 @@ Hi there, I'm **Daouya Sara**, an **Intelligent Computer Systems Engineer** pass
 <ul>
   <li><b>🗺️ <a href="https://github.com/DaouiaSarah/FacCentraleMap">FC MAP</a></b> — Android app for navigation around the Faculty of Sciences, University of Algiers 1.</li>
   <li><b>♻️ <a href="https://github.com/DaouiaSarah/BioCycle">BioCycle</a></b> — Android app to track and manage recyclable products for a recycling business.</li>
-  <li><b>🚗 Driver Acquisition Module</b> — Native Android module developed for <i>Yassir</i> to manage driver acquisition processes. <i>(Bachelor Thesis)</i></li>
+  <li><b>🚗 <a href="https://github.com/DaouiaSarah/LicencePFE">Driver Acquisition Module</a></b> — Native Android module developed for <i>Yassir</i> to manage driver acquisition processes. <i>(Bachelor Thesis)</i></li>
   <li><b>📖 <a href="https://github.com/DaouiaSarah/Kids-Tales">Kids Tales</a></b> — Android app featuring interactive children’s stories with illustrations.</li>
   <li><b>🎲 Mini Learning Projects</b> — <a href="https://github.com/DaouiaSarah/DiceRollerApp">Dice Rolle</a>, <a href="https://github.com/DaouiaSarah/TipTimeApp">Tip Time</a>, <a href="https://github.com/DaouiaSarah/LemonadeApp">Lemonade</a>, <a  href="https://github.com/DaouiaSarah/DogglersApp">Dogglers</a>, <a href="https://github.com/DaouiaSarah/DessertClickerApp">Dessert Clicker</a> apps created while learning from the Android Developer course by Google.</li>
 </ul>
